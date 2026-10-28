@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.boton {
+    display: block;
+    padding: 16px;
+    margin: 15px 0;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
